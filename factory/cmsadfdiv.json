@@ -1,0 +1,15 @@
+{
+	"name": "cmsadfdiv",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ec941d2a-80ff-42ce-95bf-7fa454be4703",
+		"tenantId": "589f54f7-97a4-4bd2-99d4-52fb744d9b67"
+	}
+}
